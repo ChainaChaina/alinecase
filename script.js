@@ -3,9 +3,9 @@ function myscript(){
     var num = Math.random() * 10;
     console.log(num);
     if (num < 5) {
-        pic.src = "imgs/AlineArt.jpg";
+        pic.src = "Alineart.jpg";
     }
     else {
-        pic.src = "imgs/AlinePerfil.jpg";
+        pic.src = "Alineperfil.jpg";
     }
 }
