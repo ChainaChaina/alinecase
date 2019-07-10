@@ -16,6 +16,7 @@ body{
     min-height: 50px;
     max-width: 100px;
     animation: dance 30s infinite;
+    overflow-x: hidden;
 }
 
 .yello2{ 
@@ -25,6 +26,7 @@ body{
     min-height: 50px;
     max-width: 100px;
     animation: dance2 30s infinite;
+    overflow-x: hidden;
 }
 
 .yello3{ 
@@ -34,6 +36,7 @@ body{
     min-height: 50px;
     max-width: 150px;
     animation: dance3 30s infinite;
+    overflow-x: hidden;
 }
 .yello4{ 
     z-index: -1;
@@ -42,6 +45,7 @@ body{
     min-height: 50px;
     max-width: 300px;
     animation: dance4 20s infinite;
+    overflow-x: hidden;
     
 }
 .yello5{ 
@@ -51,6 +55,7 @@ body{
     min-height: 50px;
     max-width: 140px;
     animation: dance4 15s infinite;
+    overflow-x: hidden;
 }
 .centertext{
     text-align: center;
