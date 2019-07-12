@@ -1,12 +1,15 @@
 body{
     background-color: rgb(255, 240, 211);
     overflow-x: hidden;
+
 }
 .FirstDiv{
     max-width: 100%;
+    overflow-x: hidden;
 }
 .img1{
     max-width: 100%;
+    overflow-x: hidden;
 }
 
 .yello{ 
@@ -27,6 +30,10 @@ body{
     max-width: 100px;
     animation: dance2 30s infinite;
     overflow-x: hidden;
+}
+
+.curri{
+    max-width: 100%;
 }
 
 .yello3{ 
@@ -59,14 +66,17 @@ body{
 }
 .centertext{
     text-align: center;
+  
 }
 .space{
 
     min-height: 200px;
     text-align: center;
+    overflow-x: hidden;
 }
 .maps{
     border-style: groove;
+    overflow-x: hidden;
 }
 
 
