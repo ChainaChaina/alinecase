@@ -4,7 +4,7 @@ function myscript(){
     console.log(num);
     console.log('NICE SITE, BRAH');
     if (num < 5) {
-        pic.src = "Alineart.jpg";
+        pic.src = "city.jpg";
     }
     else {
         pic.src = "Alineperfil.jpg";
